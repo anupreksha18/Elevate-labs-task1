@@ -89,7 +89,7 @@ LandingPage/
 
 ## How to Contribute
 
-Feel free to fork the project, make improvements, and submit pull requests. For any questions or feedback, you can reach me at abc@gmail.com.
+Feel free to fork the project, make improvements, and submit pull requests. For any questions or feedback, you can reach me at sakshianuprekshanegi@gmail.com
 
 ---
 
